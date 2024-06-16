@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marce\\source\\repos\\Contacts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|c:\\users\\marce\\source\\repos\\contacts\\contacts\\contacts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|solutionrelative:contacts\\contacts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|c:\\users\\marce\\source\\repos\\contacts\\contacts\\models\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|solutionrelative:contacts\\models\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|c:\\users\\marce\\source\\repos\\contacts\\contacts\\views\\contactspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\contactspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|c:\\users\\marce\\source\\repos\\contacts\\contacts\\views\\contactspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\contactspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|c:\\users\\marce\\source\\repos\\contacts\\contacts\\views\\addcontactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\addcontactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|c:\\users\\marce\\source\\repos\\contacts\\contacts\\views\\addcontactpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\addcontactpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|c:\\users\\marce\\source\\repos\\contacts\\contacts\\views\\controls\\contactcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\controls\\contactcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|c:\\users\\marce\\source\\repos\\contacts\\contacts\\views\\controls\\contactcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\controls\\contactcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|c:\\users\\marce\\source\\repos\\contacts\\contacts\\views\\editcontactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\editcontactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|c:\\users\\marce\\source\\repos\\contacts\\contacts\\views\\editcontactpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\editcontactpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|c:\\users\\marce\\source\\repos\\contacts\\contacts\\contacts.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|solutionrelative:contacts\\contacts.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|c:\\users\\marce\\source\\repos\\contacts\\contacts\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|solutionrelative:contacts\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marce\\.nuget\\packages\\communitytoolkit.maui\\9.0.1\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|c:\\users\\marce\\source\\repos\\contacts\\contacts\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|solutionrelative:contacts\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|c:\\users\\marce\\source\\repos\\contacts\\contacts\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|solutionrelative:contacts\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|c:\\users\\marce\\source\\repos\\contacts\\contacts\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|solutionrelative:contacts\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|c:\\users\\marce\\source\\repos\\contacts\\contacts\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|solutionrelative:contacts\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|c:\\users\\marce\\source\\repos\\contacts\\contacts\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|solutionrelative:contacts\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|c:\\users\\marce\\source\\repos\\contacts\\contacts\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|solutionrelative:contacts\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|c:\\users\\marce\\source\\repos\\contacts\\contacts\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BFAE00-73E4-4028-91DE-A7DF3BF695AA}|Contacts\\Contacts.csproj|solutionrelative:contacts\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddContactPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Views\\AddContactPage.xaml.cs",
+              "RelativeDocumentMoniker": "Contacts\\Views\\AddContactPage.xaml.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Views\\AddContactPage.xaml.cs",
+              "RelativeToolTip": "Contacts\\Views\\AddContactPage.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:25:45.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Views\\ContactsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Contacts\\Views\\ContactsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Views\\ContactsPage.xaml.cs",
+              "RelativeToolTip": "Contacts\\Views\\ContactsPage.xaml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAqwDQAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:24:06.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Views\\ContactsPage.xaml",
+              "RelativeDocumentMoniker": "Contacts\\Views\\ContactsPage.xaml",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Views\\ContactsPage.xaml",
+              "RelativeToolTip": "Contacts\\Views\\ContactsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T11:22:31.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Models\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "Contacts\\Models\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Models\\ContactRepository.cs",
+              "RelativeToolTip": "Contacts\\Models\\ContactRepository.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAEgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:39:06.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contacts.csproj",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Contacts.csproj",
+              "RelativeDocumentMoniker": "Contacts\\Contacts.csproj",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Contacts.csproj",
+              "RelativeToolTip": "Contacts\\Contacts.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T12:31:29.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddContactPage.xaml",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Views\\AddContactPage.xaml",
+              "RelativeDocumentMoniker": "Contacts\\Views\\AddContactPage.xaml",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Views\\AddContactPage.xaml",
+              "RelativeToolTip": "Contacts\\Views\\AddContactPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T11:25:38.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactControl.xaml",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Views\\Controls\\ContactControl.xaml",
+              "RelativeDocumentMoniker": "Contacts\\Views\\Controls\\ContactControl.xaml",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Views\\Controls\\ContactControl.xaml",
+              "RelativeToolTip": "Contacts\\Views\\Controls\\ContactControl.xaml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T17:25:47.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Views\\Controls\\ContactControl.xaml.cs",
+              "RelativeDocumentMoniker": "Contacts\\Views\\Controls\\ContactControl.xaml.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Views\\Controls\\ContactControl.xaml.cs",
+              "RelativeToolTip": "Contacts\\Views\\Controls\\ContactControl.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:45:14.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditContactPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Views\\EditContactPage.xaml.cs",
+              "RelativeDocumentMoniker": "Contacts\\Views\\EditContactPage.xaml.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Views\\EditContactPage.xaml.cs",
+              "RelativeToolTip": "Contacts\\Views\\EditContactPage.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:24:05.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditContactPage.xaml",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Views\\EditContactPage.xaml",
+              "RelativeDocumentMoniker": "Contacts\\Views\\EditContactPage.xaml",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Views\\EditContactPage.xaml",
+              "RelativeToolTip": "Contacts\\Views\\EditContactPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T11:23:20.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Contacts\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\MauiProgram.cs",
+              "RelativeToolTip": "Contacts\\MauiProgram.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T23:55:44.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\marce\\.nuget\\packages\\communitytoolkit.maui\\9.0.1\\ReadMe.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\communitytoolkit.maui\\9.0.1\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\marce\\.nuget\\packages\\communitytoolkit.maui\\9.0.1\\ReadMe.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\communitytoolkit.maui\\9.0.1\\ReadMe.txt",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-16T15:19:20.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contacts",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Contacts.csproj",
+              "RelativeDocumentMoniker": "Contacts\\Contacts.csproj",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Contacts.csproj",
+              "RelativeToolTip": "Contacts\\Contacts.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T16:57:08.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Contacts\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\Models\\Contact.cs",
+              "RelativeToolTip": "Contacts\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:32:04.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\App.xaml",
+              "RelativeDocumentMoniker": "Contacts\\App.xaml",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\App.xaml",
+              "RelativeToolTip": "Contacts\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-15T23:55:49.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Contacts\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\MainPage.xaml.cs",
+              "RelativeToolTip": "Contacts\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:07:21.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Contacts\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\AppShell.xaml",
+              "RelativeToolTip": "Contacts\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-15T23:55:54.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Contacts\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\AppShell.xaml.cs",
+              "RelativeToolTip": "Contacts\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T23:56:12.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Contacts\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\App.xaml.cs",
+              "RelativeToolTip": "Contacts\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T23:56:09.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Contacts\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Contacts\\Contacts\\MainPage.xaml",
+              "RelativeToolTip": "Contacts\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-15T23:55:43.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

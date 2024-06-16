@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Contacts.Views.ContactsPage"
+             Title="ContactsPage">
+
+    <Grid RowDefinitions="50, *, 50" 
+          ColumnDefinitions="*"
+          >
+        <SearchBar
+            Grid.Row="0"
+            Grid.Column="0"
+            Placeholder="Search Contact"
+            TextChanged="SearchBar_TextChanged"
+            ></SearchBar>
+        <ListView x:Name="listContacts" 
+                  BackgroundColor="Transparent"
+                  RowHeight="70"
+                  Grid.Row="1"
+                  Grid.Column="0"
+                  ItemSelected="listContacts_ItemSelected"
+                  ItemTapped="listContacts_ItemTapped"
+                  SeparatorColor="Silver">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Name}" 
+                              Detail="{Binding Email}">
+                        <TextCell.ContextActions>
+                            <MenuItem Text="Delete" 
+                                      IsDestructive="True"
+                                      Clicked="Delete_Clicked" 
+                                      CommandParameter="{Binding .}"
+                                      ></MenuItem>
+                        </TextCell.ContextActions>
+                    </TextCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Button x:Name="btnAdd"
+                Grid.Row="2"
+                Grid.Column="0"
+                Margin="10,3"
+                Text="Add Contact"
+                Clicked="btnAdd_Clicked"></Button>
+    </Grid>
+</ContentPage>

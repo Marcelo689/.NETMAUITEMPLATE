@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Contacts.Views.Controls.ContactControl"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             >
+
+    <VerticalStackLayout Spacing="10" Margin="20,10">
+
+        <Frame Padding="10,2">
+            <HorizontalStackLayout>
+                <Label Text="Name: " VerticalOptions="Center"/>
+                <Entry x:Name="entryName" WidthRequest="200" VerticalOptions="Center">
+                    <Entry.Behaviors>
+                        <toolkit:TextValidationBehavior x:Name="entryNameValidator"
+                                                        Flags="ValidateOnAttaching,ValidateOnValueChanged"
+                                                        MinimumLength="1"
+                                                        />
+                    </Entry.Behaviors>
+                </Entry>
+            </HorizontalStackLayout>
+        </Frame>
+
+        <Frame Padding="10,2">
+            <HorizontalStackLayout>
+                <Label Text="Email: " VerticalOptions="Center"/>
+                <Entry x:Name="entryEmail"  WidthRequest="200" VerticalOptions="Center">
+                    <Entry.Behaviors>
+                        <toolkit:MultiValidationBehavior x:Name="entryEmailValidator"
+                                                         Flags="ValidateOnAttaching,ValidateOnValueChanged"
+                                                         >
+                            <toolkit:TextValidationBehavior Flags="ValidateOnAttaching,ValidateOnValueChanged"
+                                                            MinimumLength="1"/>
+                            <toolkit:EmailValidationBehavior Flags="ValidateOnAttaching,ValidateOnValueChanged"/>
+                        </toolkit:MultiValidationBehavior>
+                    </Entry.Behaviors>
+                </Entry>
+            </HorizontalStackLayout>
+        </Frame>
+
+        <Frame Padding="10,2">
+            <HorizontalStackLayout>
+                <Label Text="Phone Number: " VerticalOptions="Center"/>
+                <Entry  x:Name="entryPhoneNumber" WidthRequest="200" VerticalOptions="Center"></Entry>
+            </HorizontalStackLayout>
+        </Frame>
+
+        <Frame Padding="10,2">
+            <HorizontalStackLayout>
+                <Label Text="Adress: " VerticalOptions="Center"/>
+                <Entry  x:Name="entryAdress" WidthRequest="200" VerticalOptions="Center"></Entry>
+            </HorizontalStackLayout>
+        </Frame>
+
+        <Button Text="Save" Clicked="Button_Clicked_Save"></Button>
+        <Button Text="Cancel" Clicked="Button_Clicked_Cancel"></Button>
+    </VerticalStackLayout>
+</ContentView>
