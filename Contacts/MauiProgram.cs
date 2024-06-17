@@ -1,4 +1,5 @@
 ﻿using CommunityToolkit.Maui;
+using Contacts.Models;
 using Microsoft.Extensions.Logging;
 
 namespace Contacts
@@ -8,6 +9,10 @@ namespace Contacts
         public static MauiApp CreateMauiApp()
         {
             var builder = MauiApp.CreateBuilder();
+
+            string dbPath = FileAccessHelper.GetLocalFilePath("database.db3");
+            builder.Services.AddSingleton<SQLiteRepository>( s => ActivatorUtilities.CreateInstance<SQLiteRepository>(s, dbPath));
+
             builder
                 .UseMauiApp<App>()
                 .ConfigureFonts(fonts =>

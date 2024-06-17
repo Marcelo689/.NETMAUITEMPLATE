@@ -1,14 +1,14 @@
+using CommunityToolkit.Maui.Core.Extensions;
 using Contacts.Models;
 using System.Collections.ObjectModel;
 namespace Contacts.Views;
 
 public partial class ContactsPage : ContentPage
 {
-	public ContactsPage()
-	{
-		InitializeComponent();
-	}
-
+    public ContactsPage()
+    {
+        InitializeComponent();
+    }
     protected override void OnAppearing()
     {
         base.OnAppearing();
@@ -44,13 +44,13 @@ public partial class ContactsPage : ContentPage
 
     private void LoadContacts()
     {
-        var contacts = new ObservableCollection<Models.Contact>(ContactRepository.GetContacts());
+        var contacts =  App.Repository.GetAllContacts().ToObservableCollection();
         listContacts.ItemsSource = contacts;
     }
 
     private void SearchBar_TextChanged(object sender, TextChangedEventArgs e)
     {
-        ObservableCollection<Models.Contact> contacts = ContactRepository.SearchContacts(((SearchBar)sender).Text);
+        var contacts = App.Repository.FilterContacts(((SearchBar)sender).Text).ToObservableCollection();
         listContacts.ItemsSource = contacts;
     }
 

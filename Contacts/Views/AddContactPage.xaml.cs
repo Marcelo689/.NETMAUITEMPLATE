@@ -11,7 +11,7 @@ public partial class AddContactPage : ContentPage
 
     private void contactControl_OnSave(object sender, EventArgs e)
     {
-        ContactRepository.AddContact(new Models.Contact
+        App.Repository.AddContact(new Models.Contact
         {
             Name = contactControl.Name,
             Adress = contactControl.Adress,

@@ -14,7 +14,7 @@ public partial class EditContactPage : ContentPage
 
 	public string ContactId { set
 		{
-			contact = ContactRepository.GetContactById(int.Parse(value));
+			contact = App.Repository.GetContactById(int.Parse(value));
             contactControl.Name= contact.Name;	
 			contactControl.Email = contact.Email;	
 			contactControl.PhoneNumber = contact.PhoneNumber;
@@ -29,7 +29,7 @@ public partial class EditContactPage : ContentPage
         contact.PhoneNumber = contactControl.PhoneNumber;
         contact.Adress = contactControl.Adress;
 
-        ContactRepository.UpdateContact(contact.ContactId, contact);
+        App.Repository.UpdateContact(contact);
         Shell.Current.GoToAsync("..");
     }
 
